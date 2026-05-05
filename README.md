@@ -105,19 +105,6 @@ Mar 2021 – Apr 2022   Founding Engineer        @ HelloDukaan
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkavati&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkavati&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 **Open to full-time Software Engineering roles · Los Angeles, CA & Remote**
 
 [📧 Email](mailto:rahulkavati.us@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/rahulkavati) · [🌐 Portfolio](https://rahulkavati.github.io) · [📄 Resume](https://rahulkavati.github.io/assets/rahulkavati_resume.pdf)
